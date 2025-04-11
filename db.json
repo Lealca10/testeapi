@@ -1,3 +1,16 @@
 {
-    "usuarios": []
+  "usuarios": [
+    {
+      "nome": "Leonardo",
+      "email": "leodrita@gmail",
+      "idade": 18,
+      "id": 1
+    },
+    {
+      "nome": "Carine",
+      "email": "carine@gmail.com",
+      "idade": 24,
+      "id": 2
+    }
+  ]
 }
